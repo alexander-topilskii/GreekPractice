@@ -1,5 +1,3 @@
 # Τα ελληνικά μου βελτιώνονται
 
-| Λεξη | Слово |   |
-|------|-------|---|
-| вв   | ппп   |   |
+https://alexander-topilskii.github.io/GreekPractice/
