@@ -1,0 +1,18 @@
+title: "Τα ελληνικά μου βελτιώνονται"
+description: "Практика греческого языка — словарь и упражнения"
+lang: ru
+url: ""
+# Для project pages на GitHub укажите имя репозитория; для user site оставьте ""
+baseurl: "/GreekPracitce"
+repository: aleksandrtopilskii/GreekPracitce
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - GreekPracitce.iml
+  - .idea
